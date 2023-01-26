@@ -1,0 +1,5 @@
+C:\Users\ahmed\source\repos\taskmanager\taskmanager\bin\Release\net6.0\publish\taskmanager.exe
+C:\Users\ahmed\source\repos\taskmanager\taskmanager\bin\Release\net6.0\publish\taskmanager.dll
+C:\Users\ahmed\source\repos\taskmanager\taskmanager\bin\Release\net6.0\publish\taskmanager.deps.json
+C:\Users\ahmed\source\repos\taskmanager\taskmanager\bin\Release\net6.0\publish\taskmanager.runtimeconfig.json
+C:\Users\ahmed\source\repos\taskmanager\taskmanager\bin\Release\net6.0\publish\taskmanager.pdb
